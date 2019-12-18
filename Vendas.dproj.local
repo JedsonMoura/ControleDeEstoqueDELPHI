@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/14 20:20:46.000.528,=C:\Users\Jedson Moura\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/12/14 20:22:08.000.855,C:\Users\Jedson Moura\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\ProjetosDelphi\uPrincipal.pas</Transaction>
+    <Transaction>2019/12/14 20:22:08.000.855,C:\Users\Jedson Moura\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\ProjetosDelphi\uPrincipal.dfm</Transaction>
+    <Transaction>2019/12/14 20:22:14.000.393,C:\Users\Jedson Moura\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\ProjetosDelphi\Vendas.dproj</Transaction>
+    <Transaction>2019/12/14 20:42:22.000.652,=C:\ProjetosDelphi\Unit1.pas</Transaction>
+    <Transaction>2019/12/14 20:44:03.000.116,C:\ProjetosDelphi\Unit1.pas=C:\ProjetosDelphi\DataModule\uDTMConexao.pas</Transaction>
+    <Transaction>2019/12/14 20:44:03.000.116,C:\ProjetosDelphi\Unit1.dfm=C:\ProjetosDelphi\DataModule\uDTMConexao.dfm</Transaction>
+    <Transaction>2019/12/14 21:46:44.000.145,=C:\ProjetosDelphi\Unit1.pas</Transaction>
+    <Transaction>2019/12/14 21:48:01.000.133,C:\ProjetosDelphi\Unit1.pas=C:\ProjetosDelphi\Heranca\uTelaHeranca.pas</Transaction>
+    <Transaction>2019/12/14 21:48:01.000.133,C:\ProjetosDelphi\Unit1.dfm=C:\ProjetosDelphi\Heranca\uTelaHeranca.dfm</Transaction>
+    <Transaction>2019/12/15 20:47:08.000.158,=C:\ProjetosDelphi\Unit1.pas</Transaction>
+    <Transaction>2019/12/15 20:48:36.000.762,C:\ProjetosDelphi\Unit1.pas=C:\ProjetosDelphi\Cadastro\uCadCategoria.pas</Transaction>
+    <Transaction>2019/12/15 20:48:36.000.762,C:\ProjetosDelphi\Unit1.dfm=C:\ProjetosDelphi\Cadastro\uCadCategoria.dfm</Transaction>
+    <Transaction>2019/12/15 22:03:59.000.476,=C:\ProjetosDelphi\Enter.pas</Transaction>
+    <Transaction>2019/12/17 10:51:56.596,=C:\ProjetosDelphi\Unit1.pas</Transaction>
+    <Transaction>2019/12/17 10:52:17.687,C:\ProjetosDelphi\Heranca\uEnum.pas=C:\ProjetosDelphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
